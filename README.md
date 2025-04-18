@@ -3,7 +3,6 @@
 🎓 Formado em Técnico em Informática (Colégio e Faculdade Sant'Ana)  
 💻 Experiência com Python, Java, JavaScript e C++ (nível júnior)  
 📚 Sempre aprendendo algo novo na área de desenvolvimento  
-🚀 Apaixonado por tecnologia, código limpo e boas práticas
 
 ---
 

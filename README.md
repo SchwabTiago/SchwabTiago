@@ -2,7 +2,7 @@
 
 ## Hi, I'm Tiago Schwab
 
-Always learning something new in the area
+Computer Technician with junior-level experience in Python, Java, JavaScript, and C++.
 
 ## Languages
 

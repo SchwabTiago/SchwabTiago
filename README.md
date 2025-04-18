@@ -2,8 +2,6 @@
 
 ## Hi, I'm Tiago Schwab
 
-
-- I’m currently learning javascript
 - Always learning something new in the area
 
 ## Languages

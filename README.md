@@ -3,6 +3,7 @@
 ## Hi, I'm Tiago Schwab
 
 - I’m currently learning javascript
+- Hacking enthusiast
 
 ## Languages
 

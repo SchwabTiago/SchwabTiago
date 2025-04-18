@@ -4,7 +4,7 @@
 
 
 - I’m currently learning javascript
-- Hacking enthusiast
+- Always learning something new in the area
 
 ## Languages
 

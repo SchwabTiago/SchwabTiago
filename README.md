@@ -1,4 +1,4 @@
-<p align="center">Hello There  🧙</p>
+<h2 align="center">Hello There  🧙</h2>
 
 ## Hi, I'm Tiago Schwab
 

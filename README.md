@@ -2,7 +2,7 @@
 
 ## Hi, I'm Tiago Schwab
 
-- Always learning something new in the area
+Always learning something new in the area
 
 ## Languages
 

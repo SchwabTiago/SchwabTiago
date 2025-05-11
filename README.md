@@ -2,7 +2,7 @@
 
 ## Hi, I'm Tiago Schwab
 
-Computer Technician with junior-level experience in Javascript, CSS, Rust.
+Computer Technician with junior-level experience in Javascript and Rust.
 
 ## Languages
 

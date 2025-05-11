@@ -8,6 +8,7 @@ Computer Technician with junior-level experience in Javascript, CSS, Rust.
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
 ![CSS3](https://img.shields.io/badge/css3-0D1117.svg?style=for-the-badge&logo=css3&logoColor=white)
+![RUST](https://img.shields.io/badge/rust-0D1117.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Frameworks
 

@@ -7,7 +7,6 @@ Computer Technician with junior-level experience in networking and JavaScript.
 ## Languages
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
-![RUST](https://img.shields.io/badge/rust-0D1117.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ## Frameworks
 

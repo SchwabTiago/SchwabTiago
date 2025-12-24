@@ -7,10 +7,12 @@ Computer Technician with junior-level experience in networking and JavaScript.
 ## Languages
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
-[![Typescript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescript.com/)
+[![Typescript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
 
 ## Frameworks
 
+![Netx.js](https://img.shields.io/badge/next.js-0D1117.svg?style=for-the-badge&logo=next.js&logoColor=white)
 [![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0D1117.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 

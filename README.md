@@ -22,3 +22,4 @@ Computer Technician with junior-level experience in networking and JavaScript.
 
 [![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)
+[![Postgresql](https://img.shields.io/badge/postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)

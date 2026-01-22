@@ -25,7 +25,6 @@ Junior Software Developer with a background as a Computer Technician, focused on
 
 [![PostgreSQL](https://img.shields.io/badge/postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![FireBase](https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/?hl=pt-br)
 
 ## Tools & Environment
 

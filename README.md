@@ -1,5 +1,3 @@
-<h1 align="center">Hello There!!</h1>
-
 ## Hi, I'm Tiago Schwab
 
 Junior Software Developer with a background as a Computer Technician, focused on web development and backend fundamentals using JavaScript, TypeScript and Java.

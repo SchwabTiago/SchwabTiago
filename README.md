@@ -15,7 +15,6 @@ Junior Software Developer with a background as a Computer Technician, focused on
 
 ## Frameworks & Libraries
 
-![Next.js](https://img.shields.io/badge/next.js-0D1117.svg?style=for-the-badge&logo=next.js&logoColor=white)
 [![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0D1117.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 

@@ -1,6 +1,6 @@
 ## Hi, I'm Tiago Schwab
 
-Junior Software Developer with a background as a Computer Technician, focused on web development and backend fundamentals using JavaScript, TypeScript and Java.
+Junior Software Developer with a background as a Computer Technician, focused on web development and backend fundamentals using JavaScript, TypeScript, Java e C++.
 
 ## Languages
 

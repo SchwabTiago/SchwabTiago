@@ -6,7 +6,9 @@ Junior Software Developer with a background as a Computer Technician, focused on
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Cpp](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+
 
 ## Runtimes & Platforms
 
